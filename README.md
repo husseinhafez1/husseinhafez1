@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi there, I'm Hussein 👋
-
+------------
 Information Engineering student @ University of Padua. Competitive programmer with a thing for low-level systems and graphics programming.
 
 </div>
