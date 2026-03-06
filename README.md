@@ -31,6 +31,7 @@ Information Engineering student @ University of Padua. Competitive programmer wi
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?style=flat&logo=Vulkan&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl&logoColor=black)
+![DirectX11](https://img.shields.io/badge/DirectX_11-0078D4?style=flat)
 ![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=76B900)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
