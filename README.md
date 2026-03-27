@@ -19,7 +19,7 @@ Graphics programmer | Competitive programmer
 
 **competitive programming**
 - SWERC 2024 finalist — SW Europe's ICPC regional, one of the top competitive programming contests
-- ITACPC 2024 — top 20 nationally out of 200+ teams
+- ITACPC 2025 — top 20 nationally out of 200+ teams
 
 **low-level systems**
 - Microcontrollers — STM32, Arduino
