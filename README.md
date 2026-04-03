@@ -1,8 +1,6 @@
 # Hussein Shalaby
 
-Graphics & systems programmer focused on real-time rendering and systems programming.
-Currently building a PBR renderer in OpenGL and working toward path tracing.
-SWERC 2024 finalist · Information Engineering @ University of Padua
+Information Engineering @ University of Padua
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
