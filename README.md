@@ -13,10 +13,9 @@ SWERC 2024 finalist · Information Engineering @ University of Padua
 
 ## what I'm building
 - **Lumina** — OpenGL renderer with Phong lighting, material + texture system, working toward PBR and shadow mapping
-- **Path tracer** — CPU ray tracer working toward a full ground-up implementation with BVH, global illumination, and physically based materials
 
 ## interests
-Graphics programming · real-time rendering · game engine development · VFX/film rendering
+Graphics programming · real-time rendering · game engine development
 
 ## competitive programming
 - SWERC 2024 finalist (top 180 teams, southwestern Europe) 
