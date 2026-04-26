@@ -1,4 +1,3 @@
-# Hussein Shalaby
 
 Information Engineering @unipd
 
