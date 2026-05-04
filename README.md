@@ -10,4 +10,4 @@ Information Engineering @unipd
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 ## what I'm building
-- **Nur** — OpenGL renderer
+- **Lumina** — OpenGL renderer
