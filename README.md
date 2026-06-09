@@ -3,6 +3,7 @@ Information Engineering @unipd
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)
+![WebGPU](https://img.shields.io/badge/WebGPU-3776AB?style=flat&logo=webgpu)
 ![Vulkan](https://img.shields.io/badge/Vulkan-ff0000?style=flat&logo=vulkan)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=flat&logo=opengl)
