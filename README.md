@@ -12,7 +12,8 @@ Information Engineering @unipd
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 ## what I'm building
-- **Lumina** — OpenGL renderer
+- OpenGL Sandbox
+- CUDA Pathtracer
+- WebGPU guassian splat viewer
 -----------------------------------------
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhafez1&langs_count=8&hide_progress=true)
