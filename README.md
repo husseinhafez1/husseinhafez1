@@ -13,3 +13,6 @@ Information Engineering @unipd
 
 ## what I'm building
 - **Lumina** — OpenGL renderer
+-----------------------------------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinhafez1&langs_count=8&hide_progress=true)
