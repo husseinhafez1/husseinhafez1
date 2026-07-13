@@ -3,6 +3,8 @@ Information Engineering @unipd
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)
+![DirectX11](https://img.shields.io/badge/DirectX11-0078D4?style=flat)
+![HLSL](https://img.shields.io/badge/HLSL-8A2BE2?style=flat)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=flat&logo=opengl)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
