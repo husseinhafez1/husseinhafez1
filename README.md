@@ -1,5 +1,5 @@
-
 Information Engineering @unipd
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)
@@ -12,4 +12,10 @@ Information Engineering @unipd
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
+
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=husseinhafez1&langs_count=5&hide=html,objective-c,cmake,vhdl,go)](https://github.com/husseinhafez1/github-readme-stats)
+
+### What I'm Building
+
+- **GPU Ray Tracer**: real-time path tracer written in CUDA.
+- **Rendering Engine**: C++ graphics engine with pluggable D3D11 / D3D12 backends and HLSL shaders
