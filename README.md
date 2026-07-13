@@ -3,8 +3,7 @@ Information Engineering @unipd
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)
-![DirectX11](https://img.shields.io/badge/DirectX11-0078D4?style=flat)
-![HLSL](https://img.shields.io/badge/HLSL-8A2BE2?style=flat)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-FFFFFF?style=flat&logo=opengl)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,7 +14,8 @@ Information Engineering @unipd
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=husseinhafez1&langs_count=5&hide=html,objective-c,cmake,vhdl,go)](https://github.com/husseinhafez1/github-readme-stats)
 
-### What I'm Building
+### Learning
 
-- **GPU Ray Tracer**: real-time path tracer written in CUDA.
-- **Rendering Engine**: C++ graphics engine with pluggable D3D11 / D3D12 backends and HLSL shaders
+- **Vulkan** by building a modern rendering engine
+- **CUDA** by building a GPU ray tracer
+- **Computer Graphics & Game Engine Programming**
