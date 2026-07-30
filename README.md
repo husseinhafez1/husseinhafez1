@@ -16,6 +16,6 @@ Information Engineering @unipd
 
 ### Learning
 
-- **Vulkan** by building a modern rendering engine
-- **CUDA** by building a GPU ray tracer
-- **Computer Graphics & Game Engine Programming**
+- **Vulkan**
+- **CUDA**
+- **Computer Graphics & GPU Programming**
